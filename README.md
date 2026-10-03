@@ -72,4 +72,10 @@ This portfolio contains five algorithmic problem solutions developed as part of 
 | Birthday Cake Candles | Counting | O(N) | O(1) |
 | Insertion Sort – Part 1 | Insertion/Sorting | O(N) | O(N) |
 | Binary Search | Divide and Conquer | O(log N) | O(1) |
-| Mark and Toys | Greedy + Sorting | O(N log N) | O(1) |
+| Mark and Toys | Greedy + Sorting | O(N log N) | O(1) |## HackerRank Challenge Links
+
+1. [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+2. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+3. [Insertion Sort – Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
+4. Binary Search — implemented in C in VS Code as permitted by the assignment.
+5. [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
