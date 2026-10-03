@@ -79,3 +79,24 @@ This portfolio contains five algorithmic problem solutions developed as part of 
 3. [Insertion Sort – Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)
 4. Binary Search — implemented in C in VS Code as permitted by the assignment.
 5. [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+
+## Evidence
+
+### 1. Mini-Max Sum
+Accepted submission completed on HackerRank.
+
+### 2. Birthday Cake Candles
+Accepted submission completed on HackerRank.
+
+### 3. Insertion Sort – Part 1
+Accepted submission completed on HackerRank.
+
+### 4. Binary Search
+Implemented and tested successfully in C using VS Code.
+
+### 5. Mark and Toys
+Accepted submission completed on HackerRank.
+
+## Badge Evidence
+
+HackerRank badge evidence will be added here if earned.
