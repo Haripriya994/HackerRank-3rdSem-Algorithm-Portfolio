@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- **Name:** [Hari Priya E]
-- **USN / Student ID:** [R25EF096]
+- **Name:** Hari Priya E
+- **USN / Student ID:** R25EF096
 - **Semester:** 3rd Semester
 
 ## HackerRank Profile
 
-[(https://www.hackerrank.com/profile/haripriyae27)]
+https://www.hackerrank.com/profile/haripriyae27
 
 ## GitHub Repository
 
-[(https://github.com/Haripriya994/HackerRank-3rdSem-Algorithm-Portfolio)]
+https://github.com/Haripriya994/HackerRank-3rdSem-Algorithm-Portfolio
 
 ## Introduction
 
